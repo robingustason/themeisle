@@ -6,6 +6,10 @@ const nextConfig = {
       source: "/public/best-grammar-checker-free.html",
       destination: "/pages/api/myfile.js",
     },
+    {
+      source: "/public/blogs.html",
+      destination: "/pages/api/myfile2.js",
+    },
   ],
 };
 
